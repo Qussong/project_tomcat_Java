@@ -1,5 +1,7 @@
 # Embedded Tomcat 을 활용하여 Server 띄우기
 
+[_Velog_tomcat-webserver_URL_](https://velog.io/@kih0976/Tomcat-Web-Server%EC%8B%A4%EC%8A%B5)
+
 ### 🔻환경
 
 - OS : Windows 11
